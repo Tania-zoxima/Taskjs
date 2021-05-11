@@ -1,0 +1,16 @@
+.productContainer{
+    margin-top: -60px;
+    margin: auto;
+}
+.img  
+{  
+    justify-content: center;
+    width: 90% ;
+};
+
+.slick-cloned { 
+    display: none !important; 
+}
+
+
+ 

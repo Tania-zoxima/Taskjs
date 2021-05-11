@@ -1,0 +1,31 @@
+.social-container {
+    /* margin-top: 400px; */
+    background: #eee;
+    padding: 25px 50px;
+    width: 100%;
+  }
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+  a.youtube {
+    color: #eb3223;
+    margin-left: 500px;
+  }
+  
+  a.facebook {
+    color: #4968ad;
+  }
+  
+  a.twitter {
+    color: #49a1eb;
+  }
+  
+  a.instagram {
+    color: black;
+  }
+  .cp-text{
+       color: rgba(0,0,0,.7); 
+       text-shadow: 0 1px rgba(255, 255, 255, 0.1);
+    margin-left: 440px;}
