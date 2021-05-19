@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom"
 import Explore from './Explore';
 import Product from './Product';
 import Home from './Home';
-
+import Cart from './Cart';
 
 
 
@@ -24,6 +24,7 @@ const App = () => {
         <Route path="/Product" component={Product} />
         <Switch>
         <Route path="/product/:id" component={Product} />
+        <Route path="/cart" component={Cart}/>
         </Switch>
         
       
